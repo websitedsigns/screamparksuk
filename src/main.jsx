@@ -97,6 +97,7 @@ const PARKS = [
       "Wastelands",
       "Purgatory",
       "Appleton County Farm",
+      "Appleton Saw Mill",
       "Coven of 13",
       "Hellements"
     ].map((name) => maze(name, "tulleys"))
