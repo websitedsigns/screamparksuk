@@ -283,7 +283,6 @@ const PARKS = [
       "Insomnia",
       "Freakout Resurrected",
       "Hellboy Joes Zombie tour",
-      "Area 52"
       "Cortex 17"
     ].map((name) => maze(name, "screamfest"))
   },
