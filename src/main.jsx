@@ -298,7 +298,7 @@ const PARKS = [
     mazes: [
       "Killbilly Hoedown Showdown",
       "End of The Line",
-      "Chins Playground",
+      "Chins Playhouse",
       "The Offering",
     ].map((name) => maze(name, "statfold"))
   },
@@ -398,10 +398,9 @@ const PARKS = [
     logo: parkLogo("blackpool"),
     description: "Halloween season at the famous seaside theme park.",
     mazes: [
-      "Twisted Tunnels",
-      "Abyss",
-      "New Attraction 1",
-      "New Attraction 2"
+      "Deadline",
+      "Eternal Abyss",
+      "The Veil",
     ].map((name) => maze(name, "blackpool"))
   },
 
