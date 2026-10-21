@@ -298,6 +298,7 @@ const PARKS = [
     mazes: [
       "Killbilly Hoedown Showdown",
       "End of The Line",
+      "Chins Playground",
       "The Offering",
     ].map((name) => maze(name, "statfold"))
   },
